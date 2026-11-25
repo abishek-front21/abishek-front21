@@ -12,18 +12,6 @@
   Currently undergoing Advanced Embedded Systems training at Emertxe Information Technologies.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abishek-s-68915238b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abishek-front21">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Abis2005/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 ABOUT ME
@@ -135,6 +123,7 @@
 ## 💼 EXPERIENCE
 
 ### 👨‍💻 Embedded Systems Trainee
+
 **Emertxe Information Technologies**
 
 📅 *February 2026 – Present*
@@ -190,6 +179,4 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=5&section=footer" width="100%"/>
   <br/><br/>
   ✨ <i>Turning ideas into efficient embedded solutions.</i>
-  <br/>
-  <b>⚡ Always Learning | Building | Exploring Embedded Systems</b>
 </p>
